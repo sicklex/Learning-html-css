@@ -10,8 +10,7 @@ Estou aberto para qualquer tipo de dicas.
 # First time using HTML/CSS
 
 
-This was my first contact with HTML/CSS.
-
+This was my first contact with HTML/CSS. 
 I'm looking foward to learn and getting into the world of technology.
 I'm taking the opportunity to learn about Git and Github too.
 i'm open to any tips. 
